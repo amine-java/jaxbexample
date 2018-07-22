@@ -1,0 +1,24 @@
+<infosPers>
+	
+	<nom>BOUFATAH</nom>
+	<prenom>AMINE</prenom>
+	<lieuNais>ORAN</lieuNais>
+
+	<rueAdresse>JEAN JAURES</rueAdresse>
+	<cdPostal>45000</cdPostal>
+	<ligneAdresse>TEST</ligneAdresse>
+	
+	<relation>
+	<cdRelation>9871</cdRelation>
+	<cpRelation>87261</cpRelation>
+	</relation>
+	
+	<relation>
+	<cdRelation>7762</cdRelation>
+	<cpRelation>1112</cpRelation>
+	</relation>
+	
+	<patrimoine>12388</patrimoine>
+	<assedic>997</assedic>
+	<mtPatrimoine>123</mtPatrimoine>
+</infosPers>
